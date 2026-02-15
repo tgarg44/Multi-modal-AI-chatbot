@@ -1,4 +1,4 @@
-# Multimodal AI Chatbot
+# Multimodal Conversational AI Chatbot with text, speech and image response
 
 A production-ready multimodal chatbot powered by OpenAI APIs with a Gradio web interface. Supports text chat, text-to-speech, and image generation.
 
