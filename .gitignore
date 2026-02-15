@@ -1,0 +1,31 @@
+# Environments & secrets
+.env
+.venv
+env/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Data & models
+*.pkl
+model_cache/
+vector_db/
+wandb/
+
+# OS
+.DS_Store
+
+# Gradio
+.gradio/
+
+# IDE
+.idea/
